@@ -16,3 +16,9 @@ Run it with your local environment or pycharm with or without a telegram bot.
 Run it on the Linux server as a scheduled cron job.
 
 You can delete the telegram function from the code and the script will give you "print()" results.
+
+## How to install
+all the necessary modules are named in `requirements.txt`
+
+don't forget to download and install geckodriver, for Windows - you should extract it inside project folder, for Linux - you can extract and install it anywhere and Add the driver to your PATH so other tools can find it:
+`export PATH=$PATH:/path-to-extracted-file/`
