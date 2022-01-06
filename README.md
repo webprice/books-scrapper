@@ -10,6 +10,6 @@ Script has 4 major functions.
 - telegram_api() fucntion - common telegram bot function which send the get request to a specific assembled link. 
 
 ## How to use
-Run it with your local enviroment or pycharm with or without a telegram bot
-run it on the Linux server as a scheduled cron job
+Run it with your local enviroment or pycharm with or without a telegram bot.
+run it on the Linux server as a scheduled cron job.
 You can delete the telegram function from the code and script will give you "print()" results.
